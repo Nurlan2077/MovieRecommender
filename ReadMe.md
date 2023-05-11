@@ -1,0 +1,1 @@
+Ссылка на модель https://drive.google.com/file/d/1ZgBimGbiPiOkxFbJnvojxQlnScZ-bB3y/view?usp=sharing для pytorch
